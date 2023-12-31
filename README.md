@@ -39,7 +39,7 @@ print("The number of words are in the file is ",num)
 
 ## OUTPUT:
 
-![Alt text](1.png)
+![Alt text](2.png)
 
 
 
