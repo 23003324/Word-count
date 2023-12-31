@@ -37,7 +37,7 @@ with open("sample.txt","r") as f1:
 print("The number of words are in the file is ",num)
 ```
 
-### OUTPUT:
+## OUTPUT:
 ![Alt text](<Screenshot 2023-12-31 135018.png>)
 
 ## RESULT:
